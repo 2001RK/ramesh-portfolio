@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header, section, footer {
+    padding: 20px;
+    background: #fff;
+    margin: 10px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+header h1 {
+    margin-top: 0;
+}
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #007acc;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+ul {
+    list-style: square;
+    padding-left: 20px;
+}
